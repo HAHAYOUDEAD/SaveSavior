@@ -1,2 +1,7 @@
-# SaveSavior
-Utility mod for The Long Dark to try and unfuck corrupted save
+## Handled culprits
+- Corruption caused by having invalid decoration items in inventory
+
+
+## Installation
+
+Put latest [release](https://github.com/HAHAYOUDEAD/SaveSavior/releases) .dll into .../Mods/
