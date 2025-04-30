@@ -7,3 +7,6 @@
 Put latest [release](https://github.com/HAHAYOUDEAD/SaveSavior/releases) .dll into .../Mods/
 
 Remove after/if save was successfully recovered
+
+
+[test](%appdata%)
